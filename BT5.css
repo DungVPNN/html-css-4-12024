@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 5px;
+}
+
+article .input{
+    height: 36px;
+    display: flex;
+    text-align: 12px;
+    color: lightgray;
+    margin-top: 16px;
+}
